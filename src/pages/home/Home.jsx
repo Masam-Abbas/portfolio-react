@@ -15,9 +15,7 @@ function Home() {
             <span>I'm Masam Abbas. </span> Web Devloper
           </h1>
           <p className="home__desc">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-            repellendus asperiores nisi et voluptatem dolorum repellat rem
-            corporis, mollitia in.
+           I'm A Professional Developer Having Over 5 Year Of Web Page Design And Website Development Experience. My Creations Are Guaranteed On Innovation And Modern Techniques...
           </p>
 
           <Link to="./about" className="button">
